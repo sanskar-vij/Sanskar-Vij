@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sanskar Vij 👋
 
-<!--
-**sanskar-vij/Sanskar-Vij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA (Integrated) Student at AKTU  
+💻 Fresher Python & Web Developer  
+📍 Agra, India  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python
+- Flask
+- HTML, CSS, Basic JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 🚌 **Bus & Train Ticket Booking System**
+  - Flask-based full-stack project
+  - User login, booking, database integration
+
+- 🛒 **Amazon Clone**
+  - HTML & CSS frontend project
+
+### 🎯 Career Objective
+Looking for an entry-level Python Developer / Web Developer role where I can learn, grow, and contribute to real projects.
+
+📫 **Email:** your_email@gmail.com
