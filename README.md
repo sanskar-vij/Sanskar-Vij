@@ -21,4 +21,4 @@
 ### 🎯 Career Objective
 Looking for an entry-level Python Developer / Web Developer role where I can learn, grow, and contribute to real projects.
 
-📫 **Email:** your_email@gmail.com
+📫 **Email:** sanskar12vij@gmail.com
